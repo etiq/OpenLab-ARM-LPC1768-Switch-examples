@@ -1,3 +1,13 @@
+/*
+ * File name            : main.c
+ * Compiler             : MDK-Lite
+ * IDE                  : Keil uVision V5
+ * Author               : Etiq Technologies
+ * Processor            : LPC1768
+ * Created on           : June 09, 2017, 9:44 AM
+ * Description          : Switch Program
+ */
+
 #include <lpc17xx.h>
 
 #define DATA_DIR	   LPC_GPIO1->FIODIR
